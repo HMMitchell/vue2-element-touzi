@@ -46,7 +46,7 @@
         
 
 ## 开发：
-git clone https://github.com/wdlhao/vue2-element-touzi-admin
+git clone https://github.com/HMMitchell/vue2-element-touzi.git
 
 cd vue2-element-touzi-admin
 
@@ -130,7 +130,3 @@ npm install
 ![image](https://github.com/wdlhao/vue2-element-touzi-admin/blob/master/exampleImgs/6.gif)
 ![image](https://github.com/wdlhao/vue2-element-touzi-admin/blob/master/exampleImgs/7.gif)
 
-## License
-
-项目讨论qq群：684775824，欢迎大家加群，一起来学习和交流。
-MIT
