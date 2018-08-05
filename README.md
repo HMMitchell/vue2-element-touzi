@@ -4,7 +4,6 @@
 
 - [效果演示地址](http://www.jiouai.com)
 
-- [使用文档](http://www.cnblogs.com/wdlhao/p/8075646.html)
 
 ## About
 
